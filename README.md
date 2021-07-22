@@ -1,4 +1,4 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/dermorz?label=%40dermorz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dermorz?style=social)](https://twitter.com/intent/follow?screen_name=dermorz)
 
 ### Greetings, traveller!
 
