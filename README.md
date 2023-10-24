@@ -5,4 +5,4 @@
 *I am a Señor Software Engineer who fell in love with Go. After many years
 with Python as main language I don’t want to go back anytime soon.*
 
-Currently I am working full-remote at [Kubermatic](https://www.kubermatic.com/).
+Currently I am working full-remote at [BWI GmbH](https://www.bwi.de).
