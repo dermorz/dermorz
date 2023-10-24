@@ -1,8 +1,3 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/dermorz?style=social)](https://twitter.com/intent/follow?screen_name=dermorz)
-
 ### Greetings, traveller!
 
-*I am a Señor Software Engineer who fell in love with Go. After many years
-with Python as main language I don’t want to go back anytime soon.*
-
-Currently I am working full-remote at [BWI GmbH](https://www.bwi.de).
+*I am a seasoned software engineer, currently working as Senior IT Architect building a private cloud solution at [BWI GmbH](https://www.bwi.de).*
